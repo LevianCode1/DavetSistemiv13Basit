@@ -1,0 +1,16 @@
+{
+  "prefix": "!",
+  "lang": "tr",
+  "serverID": "",
+  "welcome": {
+    "channelId": "",
+    "message": {
+      "success": "{user} katıldı; **{inviterName}** tarafından davet edildi; **{inviteCount}** daveti var",
+      "unknow": "{user} adlı kullanıcının nasıl katıldığını bulamadım.",
+      "vanity": "{user}, özel URL aracılığıyla katıldı.",
+      "self-invite": "{user} kendi davetini kullanarak katıldı. sayılmaz."
+    },
+    "isEmbed": true,
+    "color": "#27ae60"
+  }
+}
